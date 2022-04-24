@@ -10,8 +10,6 @@ DEDM team tracks NYC rental market data of 200+ rental buildings to create custo
 # Installation Packages and Dependencies
 - `Fork/Clone this repo (https://github.com/moethantkoko/Steasy.git) `
 - `npm install`
-- `npm i puppeteer`
-- `npm install xlsx`
 
 # User Instructions
 - navigate to index.js
