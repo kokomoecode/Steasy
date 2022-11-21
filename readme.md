@@ -1,10 +1,15 @@
 # Project STEASY
  
-The purpose is to increase efficieny of research team by automating internal data retrival process.
+The Challenge: To automate laborious process of manually extracting rental transactions from Streeteasy.
+The Solution: Project STEASY - webscraping application
 
-# Description
+# Impact
 
-DEDM team tracks NYC rental market data of 200+ rental buildings to create customize market reports. By utilizing this program, we have improved our turnaround time to publish reports by 44%. 
+DEDM team tracks NYC rental market data of 200+ rental buildings to create customize market reports. By utilizing this application, we have improved our turnaround time to publish reports by 44%. 
+
+# How it's Made: 
+
+For the purpose of simplicity, Puppeteer, a Node.js Library is used to scrap rental transactions from desirable streeteasy building URL.
 
 
 # Installation Packages and Dependencies
