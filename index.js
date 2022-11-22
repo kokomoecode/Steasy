@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const xlsx = require('xlsx');
-const newDevURL = 'https://streeteasy.com/building/new-york-by-gehry'
-const excelFileName = "NYBG.xlsx"
+const newDevURL = 'https://streeteasy.com/building/beatrice-105-west-29th-street-new_york'
+const excelFileName = "Beatrice.xlsx"
 const workbook = xlsx.utils.book_new();
 
 
@@ -52,9 +52,6 @@ async function rentedListing(url,page){
     return aoaRented
 
 }
-
-
-
 
 
 async function activeUnitsCall(){
