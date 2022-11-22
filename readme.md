@@ -15,8 +15,6 @@ For the purpose of simplicity, Puppeteer, a Node.js Library is used to scrap ren
 # Installation Packages and Dependencies
 - `Fork/Clone this repo (https://github.com/moethantkoko/Steasy.git) `
 - `npm install`
-- `npm i puppeteer`
-- `npm install xlsx`
 
 # User Instructions
 - navigate to index.js
