@@ -14,6 +14,14 @@ For the purpose of simplicity, Puppeteer, a Node.js Library is used to scrap ren
 # Sample
 ![Image!](Screenshot-v1.png)
 
+Streeteasy Building Page on the left with rental transactions
+
+**After the application was run**
+![Image!](Screenshot-v2.png)
+
+Desired rental transactions data were stored and saved in excel file for futher analysis.
+
+
 
 # Installation Packages and Dependencies
 - `Fork/Clone this repo (https://github.com/moethantkoko/Steasy.git) `
